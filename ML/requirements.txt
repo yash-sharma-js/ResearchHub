@@ -1,0 +1,8 @@
+uvicorn 
+fastapi
+scholarly
+kaggle
+groq
+python-dotenv
+pydantic
+spacy
